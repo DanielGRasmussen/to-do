@@ -4,7 +4,7 @@ This is a simple terminal based to-do list with cloud storage. You run it and se
 
 I made this to learn more about cloud storage and figure out how to use it.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/IOuLgijwxZY)
 
 # Cloud Database
 
